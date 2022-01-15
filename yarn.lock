@@ -1215,7 +1215,7 @@
     core-js-pure "^3.20.2"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.16.3", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.14.0", "@babel/runtime@^7.16.3", "@babel/runtime@^7.9.2":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.16.7.tgz#03ff99f64106588c9c403c6ecb8c3bafbbdff1fa"
   integrity sha512-9E9FJowqAsytyOY6LG+1KuueckRL+aQW+mKvXRXnuFGyRAyepJPmEo9vgMfXUA6O9u3IeEdv9MAkppFcaQwogQ==
@@ -2277,6 +2277,13 @@
   dependencies:
     "@webassemblyjs/ast" "1.11.1"
     "@xtuc/long" "4.2.2"
+
+"@wellyshen/use-web-animations@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@wellyshen/use-web-animations/-/use-web-animations-0.9.1.tgz#70fc6c0f29427d328d5d7cb40284004a55d8ae57"
+  integrity sha512-IfE8vwbPvdNWW7LkZAvoLEtjOhmodPBm8TQLFoDv7L5Fh9e0ndMOAssLXX7o5TMRoLVLfn4tUP5EM2qvX7wbgg==
+  dependencies:
+    "@babel/runtime" "^7.14.0"
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
