@@ -1,7 +1,7 @@
 import React from 'react'
 import { RedQueenRace } from "./RedQueenRace";
 
-function App() {
+const App = () =>{
 
   return (
     <>
