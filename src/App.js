@@ -1,9 +1,11 @@
-import { RedQueen } from "./RedQueenRace";
+import React from 'react'
+import { RedQueenRace } from "./RedQueenRace";
 
 function App() {
+
   return (
     <>
-      <RedQueen />
+      <RedQueenRace />
     </>
   );
 }
